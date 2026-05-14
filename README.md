@@ -29,7 +29,7 @@ cd backend
 cp .env.example .env
 # Edit .env with your PostgreSQL credentials and a strong JWT_SECRET
 npm install
-npm run dev
+npm start
 ```
 
 API runs at `http://localhost:5000` by default.
