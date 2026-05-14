@@ -91,6 +91,11 @@ Serve `frontend/dist` with any static host or CDN. Point `VITE_API_URL` at your 
 - **Search**, **filters**, **pagination**
 - **Toast** notifications, **dark mode**
 
+## Login
+
+email:test@gmail.com
+password:123456789
+
 ## License
 
 MIT
