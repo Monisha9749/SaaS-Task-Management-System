@@ -1,13 +1,11 @@
 # TaskFlow — Mini SaaS Task Management
 
-Production-style full-stack app: **React + Tailwind** (`.jsx` / `.js`), **Node + Express + Sequelize + PostgreSQL**, **JWT + bcrypt**. Each user has private tasks (no shared task list).
+Production-style full-stack app: **React + Tailwind**, **Node + Express + Sequelize + PostgreSQL**, **JWT + bcrypt**. Each user has private tasks (no shared task list).
 
 ## Project layout
 
-| Path | Role |
-|------|------|
-| `backend/` | REST API, Sequelize models, JWT auth, validation, centralized errors |
-| `frontend/` | Vite + React SPA, Tailwind, protected routes, axios client |
+`backend/` REST API, Sequelize models, JWT auth, validation, centralized errors 
+`frontend/`  Vite + React SPA, Tailwind, protected routes, axios client 
 
 ## Prerequisites
 
